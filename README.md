@@ -89,11 +89,6 @@ I like projects that need both a workbench and a computer. That might mean getti
 
 Developed and troubleshot computational IR-spectroscopy workflows for calcium aluminosilicate glasses. Worked through simulation, spectral analysis and HPC environment issues using Python, PyTorch, CUDA and Slurm.
 
-**⚡ Siemens Energy · Virtual Work Experience**  
-*Oct–Nov 2025*
-
-Explored E-STATCOM supercapacitor systems, wind-transformer manufacturing and HVDC applications through a virtual industry program.
-
 **🌱 Co-founder · Student Enrichment Program**  
 *Founded Sept 2023*
 
@@ -111,7 +106,12 @@ Helped build a student-led mentoring initiative that reached 200+ students throu
 
 ## Beyond the lab
 
-Hiking, chess, traveling and aviation. I also co-founded the Student Enrichment Program because access to good guidance can change what a student thinks is possible.
+<p align="center">
+  <img src="assets/rubiks-cube.gif" width="49%" alt="A gently rotating 3D Rubik’s cube" />
+  <img src="assets/chess.gif" width="49%" alt="A chess knight following an eight-move legal loop around the board" />
+</p>
+
+Rubik’s cubes, chess, hiking, traveling and aviation. I also co-founded the Student Enrichment Program because access to good guidance can change what a student thinks is possible.
 
 ---
 
